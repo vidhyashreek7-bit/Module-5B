@@ -1,4 +1,4 @@
-![5 1](https://github.com/user-attachments/assets/4433d104-ea3b-414b-b3a6-9d255c85acac)# NumPy Program: Replace the Second Column in a 2D Array
+# NumPy Program: Replace the Second Column in a 2D Array
 
 ## 🎯 Aim
 To write a **NumPy** program that deletes the second column from a given 2D array and inserts a new column at the same position.
